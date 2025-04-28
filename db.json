@@ -1,0 +1,17 @@
+{
+  "mensagens": [
+    {
+      "sender": "João Teu pai",
+      "receiver": "Maria tua mãe",
+      "content": "Oloko",
+      "id": "2"
+    },
+    {
+      "id": 6,
+      "sender": "João Teu pai",
+      "receiver": "Maria tua mãe",
+      "content": "Oloko",
+      "timestamp": "2025-05-23T10:00:00Z"
+    }
+  ]
+}
